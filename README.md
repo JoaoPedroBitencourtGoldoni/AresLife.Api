@@ -28,11 +28,7 @@ O projeto foi desenvolvido para a disciplina **Advanced Business Development wit
 * [Demonstração ponta a ponta](#demonstração-ponta-a-ponta)
 * [Como o projeto atende aos requisitos da disciplina](#como-o-projeto-atende-aos-requisitos-da-disciplina)
 * [Vídeos da entrega](#vídeos-da-entrega)
-* [Roteiro sugerido para vídeo demonstração](#roteiro-sugerido-para-vídeo-demonstração)
-* [Roteiro sugerido para pitch](#roteiro-sugerido-para-pitch)
 * [Integrantes](#integrantes)
-* [Link do repositório](#link-do-repositório)
-* [Status do projeto](#status-do-projeto)
 
 ---
 
@@ -388,13 +384,13 @@ dotnet tool update --global dotnet-ef
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/JoaoPedroBitencourtGoldoni/AresLife.Api
 ```
 
 Exemplo:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/AresLife.Api.git
+git clone https://github.com/JoaoPedroBitencourtGoldoni/AresLife.Api
 ```
 
 ---
@@ -846,8 +842,10 @@ Link: **INSERIR LINK DO VÍDEO PITCH AQUI**
 
 ## Integrantes
 
-* Marina Magalhães
-* João Pedro Bitencourt Goldoni
-* Adicionar demais integrantes, se houver
+* Felipe Maglio Filho - RM: 563512
+* João Pedro Bitencourt Goldoni - RM: 564339
+* Marina Magalhães - RM: 561786
+* Mateus Granja dos Santos - RM: 564930
+* Vitória Valentina Maglio - RM: 563509
 
 ---

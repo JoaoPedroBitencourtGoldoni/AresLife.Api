@@ -844,73 +844,10 @@ Link: **INSERIR LINK DO VÍDEO PITCH AQUI**
 
 ---
 
-## Roteiro sugerido para vídeo demonstração
-
-1. Apresentar rapidamente o projeto AresLife.
-2. Mostrar o GitHub e o README.
-3. Mostrar a estrutura no VS Code.
-4. Explicar Models, Controllers, DTOs, Service e Migrations.
-5. Executar `dotnet run`.
-6. Abrir o Swagger.
-7. Criar um habitat.
-8. Criar uma pessoa.
-9. Registrar uma leitura crítica.
-10. Mostrar alertas gerados.
-11. Resolver um alerta.
-12. Mostrar o dashboard.
-13. Enviar uma entrada inválida e mostrar erro 400.
-14. Encerrar explicando que o projeto cumpre API REST, banco relacional, relacionamento, migrations e documentação.
-
----
-
-## Roteiro sugerido para pitch
-
-Olá, nosso projeto se chama AresLife.
-
-A proposta surgiu a partir dos desafios da economia espacial, como colonização de Marte, exploração lunar e turismo espacial. Nesses cenários, será necessário controlar recursos limitados, monitorar pessoas e gerar alertas em tempo real para evitar riscos.
-
-Nossa solução é uma API REST desenvolvida em .NET que simula a gestão de habitats espaciais. O sistema permite cadastrar habitats, pessoas, registrar leituras de oxigênio, água, energia e temperatura, além de gerar alertas automáticos quando algum recurso chega a um nível crítico.
-
-Apesar do foco espacial, a solução também se conecta com problemas reais da Terra, como gestão de recursos em hospitais de campanha, bases remotas, regiões isoladas e operações de emergência.
-
-Tecnicamente, o projeto utiliza ASP.NET Core, Entity Framework Core, SQLite, Swagger e migrations. O banco foi modelado com relacionamentos entre habitats, pessoas, leituras e alertas.
-
-O diferencial da AresLife está em transformar dados de monitoramento em informação útil para tomada de decisão, ajudando a prevenir riscos e aumentar a segurança em ambientes extremos.
-
-Obrigado.
-
----
-
 ## Integrantes
 
 * Marina Magalhães
 * João Pedro Bitencourt Goldoni
 * Adicionar demais integrantes, se houver
-
----
-
-## Link do repositório
-
-```txt
-INSERIR LINK DO REPOSITÓRIO GITHUB AQUI
-```
-
----
-
-## Status do projeto
-
-Projeto funcional e em fase de documentação final.
-
-### Requisitos concluídos
-
-* API REST implementada.
-* Persistência com banco relacional.
-* Relacionamentos 1:N implementados.
-* Migrations criadas e aplicadas.
-* Swagger configurado.
-* Regras de negócio implementadas.
-* Geração automática de alertas funcionando.
-* Dashboard funcional.
-* Documentação criada no README.
 
 ---

@@ -846,8 +846,10 @@ Link: **INSERIR LINK DO VÍDEO PITCH AQUI**
 
 ## Integrantes
 
-* Marina Magalhães
-* João Pedro Bitencourt Goldoni
-* Adicionar demais integrantes, se houver
+* Felipe Maglio Filho - RM: 563512
+* João Pedro Bitencourt Goldoni - RM: 564339
+* Marina Magalhães - RM: 561786
+* Mateus Granja dos Santos - RM: 564930
+* Vitória Valentina Maglio - RM: 563509
 
 ---

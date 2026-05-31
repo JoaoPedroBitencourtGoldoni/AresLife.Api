@@ -1,0 +1,15 @@
+namespace AresLife.Api.DTOs;
+
+public class HabitatResponseDto
+{
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public string Location { get; set; } = string.Empty;
+    public int Capacity { get; set; }
+    public string Status { get; set; } = string.Empty;
+    public DateTime CreatedAt { get; set; }
+
+    public int PeopleCount { get; set; }
+    public int ResourceReadingsCount { get; set; }
+    public int AlertsCount { get; set; }
+}

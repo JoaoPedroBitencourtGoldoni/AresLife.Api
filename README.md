@@ -150,11 +150,15 @@ AresLife.Api/
 │   └── AresLifeDbContext.cs
 │
 ├── DTOs/
+
 │   ├── AlertResponseDto.cs
-│   ├── HabitatCreateDto.cs
+|   ├── HabitatCreateDto.cs
+│   ├── HabitatResponseDto.cs
 │   ├── PersonCreateDto.cs
-│   └── ResourceReadingCreateDto.cs
-│
+|   ├── PersonResponse.cs
+│   ├── ResourceReadingCreateDto.cs
+│   └── ResourceReadingResponseDto.cs
+|
 ├── Migrations/
 │   ├── InitialCreate.cs
 │   └── AresLifeDbContextModelSnapshot.cs
